@@ -1,0 +1,1 @@
+{"version":3,"file":"activity.interface.d.ts","sourceRoot":"","sources":["../../../src/modules/activity/activity.interface.ts"],"names":[],"mappings":"AACA,MAAM,WAAW,SAAS;IACxB,IAAI,EAAE,MAAM,CAAC;IACb,WAAW,EAAE,MAAM,CAAC;IACpB,KAAK,EAAE,MAAM,CAAC;IACd,SAAS,EAAE,IAAI,CAAC;CACjB"}
